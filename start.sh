@@ -1,1 +1,1 @@
-POST=8080 nohup peerflix-server &
+PORT=8080 nohup peerflix-server &
