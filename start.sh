@@ -1,1 +1,1 @@
-POST=8080 nohup peerflix-server &> log.log &
+POST=8080 nohup peerflix-server &
