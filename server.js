@@ -1,5 +1,5 @@
 var spawn = require('child_process').spawn;
-var start = spawn('sh', ['start.sh','']);
+var start = spawn('sh', ['start.sh']);
 
 start.stdout.on('data', (data) => {
   console.log(`stdout: ${data}`);
