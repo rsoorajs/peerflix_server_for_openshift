@@ -4,7 +4,7 @@
   "description": "Node.js sample app for OpenShift 3",
   "main": "server.js",
   "dependencies": {
-    "peerflix-server": "0.2.0"
+    "peerflix-server": "0.4.2"
   },
   "engine": {
     "node": "*",
